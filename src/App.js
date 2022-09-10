@@ -40,6 +40,8 @@ function App() {
 		);
 	};
 
+
+  
 	const gameLogic = (tileFilled) => {
 		let situations = {
 			across: [
